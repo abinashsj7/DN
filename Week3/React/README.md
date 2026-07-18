@@ -1,13 +1,21 @@
+# Week 3 - React
 
-# React - Student Management
+## Topics Covered
 
-This folder contains React fundamentals including:
-- Components
+- React Components
 - JSX
-- State (useState)
+- useState Hook
 - Event Handling
 - Forms
-- Lists
+- Rendering Lists
+- CSS Styling
 
-Mini Project:
+## Mini Project
+
 Student Management System
+
+### Features
+
+- Add a student
+- Store student details using React state
+- Display student list dynamically
